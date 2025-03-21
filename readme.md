@@ -1,0 +1,1 @@
+![Descripción del GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFqb2RheGU4eHhsNm9oZmY3cWdzc213aXpsOHNjbTljbzZmdGltMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDPxwdP6SKFnsWDJ2u/giphy.gif)
