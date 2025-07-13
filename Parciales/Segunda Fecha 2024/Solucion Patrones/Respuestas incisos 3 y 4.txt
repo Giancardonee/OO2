@@ -1,0 +1,8 @@
+Respuesta inciso 3: 
+ Para agregar nuevas configuraciones, se debe hacer: 
+ - Crear nuevos concrete builders: Para cada configuracion nueva de computadora. Se deberia crear una nueva clase que extienda del Abstract Builder.
+ - Cada subclase debe implementar los metodos de construccion especificos, debe implementar los metodos de agregarProcesador, agregarMemoria, agregarTarjetaGrafica
+
+Respuesta inciso 4:
+ Para agregar nuevas configuraciones para el catalogo, lo que se puede hacer es agregar clases, por ejemplo Monitor, Teclado, Mouse, y se podria crear una interfaz o clase abstracta 
+
